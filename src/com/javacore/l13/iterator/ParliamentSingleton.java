@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class ParliamentSingleton {
 	
 	private static ParliamentSingleton instance;
-	
 	private ParliamentSingleton() {}
 	
 	public static ParliamentSingleton getInstance() {

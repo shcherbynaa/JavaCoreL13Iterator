@@ -118,5 +118,4 @@ public class Faction  {
 	public void clearFaction() {
 		faction.clear();
 	}
-
 }

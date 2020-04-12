@@ -51,7 +51,6 @@ public class Main {
 		
 		case 9: parliament.showMainBribetakersFaction();
 		break;
-		
 		}
 	}
 

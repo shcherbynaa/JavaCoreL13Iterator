@@ -16,6 +16,7 @@ public class Person {
 	public void setHeight(int height) {
 		this.height = height;
 	}
+	
 	@Override
 	public String toString() {
 		return "Person [weight=" + weight + ", height=" + height + "]";
